@@ -1,0 +1,73 @@
+
+.page {
+    padding: 50px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.tableOfContents {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    color: blue;
+    text-decoration: underline;
+    margin-right: 5px;
+}
+
+.italicize {
+    font-style: italic;
+}
+
+// writing
+
+.writingLinks {
+    display: flex;
+    flex-direction: column;
+
+    div {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+// photos
+
+.photos {
+    // display: flex;
+    // flex-direction: row;
+    div {
+        margin-bottom: 25px;
+    }
+}
+
+.photoSet {
+    display: flex;
+    gap: 50px;
+}
+
+.imageBorder {
+    // padding: 1px;
+    // background-color: black;
+    border: 1px solid black;
+    width: 500px;
+    padding: 20px;
+    // height: 320px;
+    // height: 500px;
+}
+
+.leftPadding {
+    margin-left: 100px;
+}
+
+// about me
+
+.text {
+    font-size: 20px;
+}
