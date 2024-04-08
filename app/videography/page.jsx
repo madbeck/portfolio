@@ -8,7 +8,7 @@ export default function Filmography() {
             <div className={styles.tableOfContents}>/ Videography</div>
             <div className={styles.writingLinks}>
                 <div>
-                    <Link className={styles.link} href="https://vimeo.com/manage/videos/931636749">Water Bodies,</Link>
+                    <Link className={styles.link} href="https://vimeo.com/manage/videos/931935668">Water Bodies,</Link>
                     August 2022.
                     <Image src="/videos/water-bodies.png" height={500} width={500} />
                 </div>
