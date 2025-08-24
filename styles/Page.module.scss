@@ -40,8 +40,6 @@
 // photos
 
 .photos {
-    // display: flex;
-    // flex-direction: row;
     div {
         margin-bottom: 25px;
     }
@@ -49,17 +47,9 @@
 
 .photoSet {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     gap: 50px;
-}
-
-.imageBorder {
-    // padding: 1px;
-    // background-color: black;
-    border: 1px solid black;
-    width: 500px;
-    padding: 20px;
-    // height: 320px;
-    // height: 500px;
 }
 
 .leftPadding {
@@ -68,6 +58,15 @@
 
 // about me
 
-.text {
+.bio {
+    display: flex;
+    gap: 100px;
+}
+
+.bioText {
     font-size: 20px;
+}
+
+.bioImage {
+    padding-top: 20px;
 }
