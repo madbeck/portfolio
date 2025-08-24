@@ -20,7 +20,7 @@ export default function Photography() {
                     <Image src="/south-africa/6.png" width={800} height={500} alt={""} draggable={false}/>
                 </div>
                 <div>
-                    <Image src="/mexico/1.jpg" width={800} height={500} alt={""} draggable={false}/>
+                    <Image src="/mexico/0.jpg" width={800} height={500} alt={""} draggable={false}/>
                 </div>
                 <div>
                     <Image src="/mexico/2.jpg" width={800} height={500} alt={""} draggable={false}/>
@@ -32,7 +32,7 @@ export default function Photography() {
                     <Image src="/mexico/4.jpg" width={800} height={500} alt={""} draggable={false}/>
                 </div>
                 <div>
-                    <Image src="/us/1.jpg" width={800} height={500} alt={""} draggable={false}/>
+                    <Image src="/us/0.jpg" width={800} height={500} alt={""} draggable={false}/>
                 </div>
             </div>
         </div>
